@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Linq.Expressions;
 
-namespace ExtractFunctionGoodExample
+namespace EndPoint
 {
-
     class LimitsOfArray
     {
-
-        public static int GetMaxFromArray(int length, int[] array)
+        public int GetMaxFromArray(int length, int[] array)
         {
             int result = array[0];
 
@@ -17,7 +14,7 @@ namespace ExtractFunctionGoodExample
             return result;
         }
 
-        public static int GetMinFromArray(int length, int[] array)
+        public int GetMinFromArray(int length, int[] array)
         {
             int result = array[0];
 
@@ -30,7 +27,7 @@ namespace ExtractFunctionGoodExample
 
     class SystemTests
     {
-        private LimitsOfArray limits;
+        private readonly LimitsOfArray _limits;
 
         private static bool Assert(bool statement)
         {
@@ -42,19 +39,19 @@ namespace ExtractFunctionGoodExample
         
         public SystemTests()
         {
-            limits = new LimitsOfArray();    
+            _limits = new LimitsOfArray();    
         }
 
         public void TestGetMaxFromArray()
         {
-            Assert(LimitsOfArray.GetMaxFromArray(5, new int[] {1, 2, 3, 4, 5}) == 5);
-            Assert(LimitsOfArray.GetMaxFromArray(7, new int[] {12, -12, 31, 15, 16, 7, -32}) == 31);
+            Assert(_limits.GetMaxFromArray(5, new int[] {1, 2, 3, 4, 5}) == 5);
+            Assert(_limits.GetMaxFromArray(7, new int[] {12, -12, 31, 15, 16, 7, -32}) == 31);
         }
 
         public void TestGetMinFromArray()
         {
-            Assert(LimitsOfArray.GetMinFromArray(5, new int[] {1, 2, 3, 4, 5}) == 1);
-            Assert(LimitsOfArray.GetMinFromArray(7, new int[] {12, -12, 31, 15, 16, 7, -32}) == -32);
+            Assert(_limits.GetMinFromArray(5, new int[] {1, 2, 3, 4, 5}) == 1);
+            Assert(_limits.GetMinFromArray(7, new int[] {12, -12, 31, 15, 16, 7, -32}) == -32);
         }
     }
     
