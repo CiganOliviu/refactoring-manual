@@ -12,8 +12,7 @@ namespace ExtractFunctionGoodExample
             int result = array[0];
 
             for (int iterator = 0; iterator < length; iterator++)
-                if (result < array[iterator])
-                    result = array[iterator];
+                result = result < array[iterator] ? array[iterator] : result;
             
             return result;
         }
@@ -23,8 +22,7 @@ namespace ExtractFunctionGoodExample
             int result = array[0];
 
             for (int iterator = 0; iterator < length; iterator++)
-                if (result > array[iterator])
-                    result = array[iterator];
+                result = result > array[iterator] ? array[iterator] : result;
 
             return result;
         }
