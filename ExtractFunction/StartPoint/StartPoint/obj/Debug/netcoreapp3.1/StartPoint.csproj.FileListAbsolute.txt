@@ -1,0 +1,13 @@
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint.deps.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint.runtimeconfig.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint.runtimeconfig.dev.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint.dll
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/bin/Debug/netcoreapp3.1/StartPoint.pdb
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.csprojAssemblyReference.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.AssemblyInfoInputs.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.AssemblyInfo.cs
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.dll
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.pdb
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ExtractFunction/StartPoint/StartPoint/obj/Debug/netcoreapp3.1/StartPoint.genruntimeconfig.cache
