@@ -41,7 +41,7 @@ namespace EndPoint
         {
             _limits = new LimitsOfArray();    
         }
-
+        
         public void TestGetMaxFromArray()
         {
             Assert(_limits.GetMaxFromArray(5, new int[] {1, 2, 3, 4, 5}) == 5);

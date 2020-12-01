@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60cc0f8b-00c7-4a44-86ec-49f496e4b90d" name="Default Changelist" comment="" />
+    <list default="true" id="7683fcd9-ddfa-4e22-88f5-d73e654f3b5e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1l3NZ77TSau64AhPgnDXWZO03vn" />
+  <component name="ProjectId" id="1l3VhZQ4GNvsaXNWiW06LXDhsY1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StartPoint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -72,19 +73,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60cc0f8b-00c7-4a44-86ec-49f496e4b90d" name="Default Changelist" comment="" />
-      <created>1606821867578</created>
+      <changelist id="7683fcd9-ddfa-4e22-88f5-d73e654f3b5e" name="Default Changelist" comment="" />
+      <created>1606825882647</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606821867578</updated>
-      <workItem from="1606821876275" duration="987000" />
+      <updated>1606825882647</updated>
+      <workItem from="1606825889342" duration="40000" />
+      <workItem from="1606825951401" duration="633000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -96,34 +98,35 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2694" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1606823070652">
+    <state x="2699" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606826583440">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2694" y="300" width="424" height="520" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823070652" />
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1606823080774">
+    <state x="2699" y="311" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606826583440" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1606826584390">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823080774" />
-    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1606823080774">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606826584390" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1606826584390">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823080774" />
-    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1606823080773">
+    <state width="1802" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606826584390" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1606826584390">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823080773" />
-    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1606823080774">
+    <state width="1802" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606826584390" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1606826584390">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1802" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823080774" />
-    <state x="2511" y="288" key="Rider.ProjectTemplateDialog.Size" timestamp="1606821867042">
+    <state width="1802" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606826584390" />
+    <state x="2511" y="288" key="Rider.ProjectTemplateDialog.Size" timestamp="1606825882126">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2511" y="288" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606821867042" />
+    <state x="2511" y="288" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606825882126" />
   </component>
 </project>

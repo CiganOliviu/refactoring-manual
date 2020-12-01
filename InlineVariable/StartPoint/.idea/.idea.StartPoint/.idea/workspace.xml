@@ -77,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606823082287</updated>
-      <workItem from="1606823101157" duration="452000" />
+      <workItem from="1606823101157" duration="576000" />
     </task>
     <servers />
   </component>
@@ -101,9 +101,25 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1606823081481">
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1606823677167">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823081481" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823677167" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1606823677167">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823677167" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1606823677167">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823677167" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1606823677167">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823677167" />
+    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1606823663382">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2511" y="288" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1606823663382" />
   </component>
 </project>

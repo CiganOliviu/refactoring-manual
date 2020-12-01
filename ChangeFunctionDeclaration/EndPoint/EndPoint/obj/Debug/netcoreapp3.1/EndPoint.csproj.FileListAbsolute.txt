@@ -1,0 +1,13 @@
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint.deps.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint.runtimeconfig.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint.runtimeconfig.dev.json
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint.dll
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/bin/Debug/netcoreapp3.1/EndPoint.pdb
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.csprojAssemblyReference.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.AssemblyInfoInputs.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.AssemblyInfo.cs
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.csproj.CoreCompileInputs.cache
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.dll
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.pdb
+/media/cigan/Personal/TemporaryWorkingProjects/refactoring-manual/ChangeFunctionDeclaration/EndPoint/EndPoint/obj/Debug/netcoreapp3.1/EndPoint.genruntimeconfig.cache
